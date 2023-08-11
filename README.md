@@ -16,7 +16,7 @@ The ToDo List Application is a simple and intuitive task manager that allows you
 
 ## Demo
 
-Check out the live demo of the application [here]((https://vipul-at-github.github.io/todolist-vipul/)).
+Check out the live demo of the application [here](https://vipul-at-github.github.io/todolist-vipul/).
 
 ## Installation
 
